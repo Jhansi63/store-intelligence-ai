@@ -1,0 +1,4 @@
+{"event_id":"e001","timestamp":"2026-06-01T10:00:05Z","event_type":"customer_enter","store_id":"store_1","person_id":"p101"}
+{"event_id":"e002","timestamp":"2026-06-01T10:03:12Z","event_type":"customer_browse","store_id":"store_1","person_id":"p101","zone":"cosmetics"}
+{"event_id":"e003","timestamp":"2026-06-01T10:08:44Z","event_type":"billing_area_visit","store_id":"store_1","person_id":"p101"}
+{"event_id":"e004","timestamp":"2026-06-01T10:10:30Z","event_type":"customer_exit","store_id":"store_1","person_id":"p101"}
